@@ -1,11 +1,10 @@
-👋 Hi, I’m @PavaN-3344
-
 👀 **I’m interested in:**
    Backend development
 
-🌱 **I’m currently learning:** PHP, Laravel
+🌱 **I’m currently learning:** 
+   PHP, Laravel
 
-💞️ I’m looking to collaborate on,** Laravel or any other php
+💞️ **I’m looking to collaborate on:** 
 
 📫 How to reach me ...**
 
