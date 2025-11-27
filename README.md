@@ -4,9 +4,9 @@
 🌱 **I’m currently learning:** 
    PHP, Laravel
 
-💞️ **I’m looking to collaborate on:** 
+💞️ **I’m looking to collaborate on: Backend Development
 
-📫 How to reach me ...**
+📫 Reach me -> pavanjakati11@gmail.com
 
 ⚡ Fun fact: ...
 
