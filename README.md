@@ -1,78 +1,105 @@
-# Hi, I'm Pavankumar Jakati 👋
+<div align="right">
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Full--time%20roles%20-1D9E75?style=for-the-badge&logoColor=white" />
+</div>
 
-**Full Stack Developer** · PHP · JavaScript · React · Laravel
+<br/>
 
-I build component-driven frontends, RESTful API backends, and relational database schemas with authentication flows and third-party integrations — backed by a growing foundation in cloud computing.
+# Pavankumar Jakati
 
----
+**Full Stack Developer** &nbsp;·&nbsp; Bengaluru, India
 
-## 🛠 Tech Stack
+> Building component-driven frontends, RESTful APIs, and relational databases — with auth flows, third-party integrations, and a growing edge in cloud computing.
 
-**Languages**
-`PHP` `JavaScript` `C++`
-
-**Frameworks & CMS**
-`React` `Laravel` `WordPress` `NativePHP`
-
-**Databases & Tools**
-`MySQL` `Redis` `Docker` `Git` `GitHub` `Postman`
-
-**AI Tools**
-`GitHub Copilot` `ChatGPT` `Prompt Engineering`
+![PHP](https://img.shields.io/badge/PHP-534AB7?style=flat-square&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-0F6E56?style=flat-square&logoColor=white)
+![React](https://img.shields.io/badge/React-993C1D?style=flat-square&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-BA7517?style=flat-square&logoColor=white)
+![AI--powered](https://img.shields.io/badge/AI--powered-993556?style=flat-square&logoColor=white)
 
 ---
 
-## 🚀 Projects
+### Tech Stack
 
-### 🤖 Resume Analyzer
-> React · Vite · JavaScript · Gemini AI API
-
-AI-powered web app that accepts PDF and DOCX uploads, processes them through the Google Gemini API, and renders structured analysis in real time.
-
-[View on GitHub →](#)
+| 🟣 Languages | 🟢 Frameworks | ⚫ DevOps | 🟡 AI Tools |
+|---|---|---|---|
+| `PHP` `JavaScript` `C++` | `React` `Laravel` `NativePHP` `WordPress` | `MySQL` `Redis` `Docker` `Git` `Postman` | `GitHub Copilot` `ChatGPT` `Prompting` |
 
 ---
 
-### 📝 Laravel Microblogging Platform
-> PHP · Laravel · MySQL · Eloquent ORM
+### Projects
 
-Full-stack microblogging platform built on Laravel MVC with Blade templating, normalized MySQL schema, and end-to-end authentication using Laravel Breeze and middleware.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[View on GitHub →](#)
+**`01 — AI`**
+
+### Resume Analyzer
+`React` · `Vite` · `Gemini AI API`
+
+AI-powered app with PDF/DOCX upload pipeline and real-time structured analysis via Google Gemini.
+
+[→ GitHub](#)
+
+</td>
+<td width="50%" valign="top">
+
+**`02 — Web App`**
+
+### Microblogging Platform
+`PHP` · `Laravel` · `MySQL`
+
+Full-stack microblog with MVC, Blade templating, and end-to-end auth via Laravel Breeze.
+
+[→ GitHub](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**`03 — API`**
+
+### Event Management System
+`Laravel` · `JWT` · `Redis` · `REST`
+
+RESTful API with RBAC, JWT auth, Redis caching, and third-party notification integrations.
+
+[→ GitHub](#)
+
+</td>
+<td width="50%" valign="top">
+
+**`04 — Desktop`**
+
+### Task Notifier System
+`NativePHP` · `Laravel` · `Queues`
+
+Desktop notifier with queue workers, schedulers, and a clean MVC + service-layer architecture.
+
+[→ GitHub](#)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📅 Event Management System
-> PHP · Laravel · MySQL · JWT · REST API
+### Certifications
 
-RESTful event management system with JWT authentication, RBAC, Redis caching, 10+ API routes, and third-party notification integrations for booking confirmations.
-
-[View on GitHub →](#)
-
----
-
-### 🔔 Task Notifier System
-> PHP · NativePHP · Laravel
-
-Desktop task notifier using NativePHP and Laravel with queue workers, scheduler-driven reminder delivery, and a clean MVC + service-layer architecture.
-
-[View on GitHub →](#)
+| | |
+|---|---|
+| ☁️ **Cloud Computing** | Simplilearn · 2025 |
+| 🐘 **PHP** | Simplilearn · 2025 |
 
 ---
 
-## 📜 Certifications
+### Contact
 
-- ☁️ **Cloud Computing** — Simplilearn, 2025
-- 🐘 **PHP** — Simplilearn, 2025
-
----
-
-## 📬 Get in Touch
-
-- 📧 [pavanjakati11@gmail.com](mailto:pavanjakati11@gmail.com)
-- 💼 [Portfolio](#)
-- 🐙 [GitHub](#)
+[![Email](https://img.shields.io/badge/Email-pavanjakati11%40gmail.com-534AB7?style=flat-square&logo=gmail&logoColor=white)](mailto:pavanjakati11@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0F6E56?style=flat-square&logo=vercel&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-2C2C2A?style=flat-square&logo=github&logoColor=white)](#)
 
 ---
 
-*Open to full-time roles and freelance projects. Let's build something great.*
+<sub>Bengaluru, IN &nbsp;·&nbsp; Open to full-time roles & freelance projects</sub>
