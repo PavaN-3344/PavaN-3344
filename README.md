@@ -39,7 +39,7 @@
 
 AI-powered app with PDF/DOCX upload pipeline and real-time structured analysis via Google Gemini.
 
-[→ GitHub](#)
+[→ GitHub](https://github.com/PavaN-3344/AI-Resume-Analyzer)
 
 </td>
 <td width="50%" valign="top">
@@ -51,7 +51,7 @@ AI-powered app with PDF/DOCX upload pipeline and real-time structured analysis v
 
 Full-stack microblog with MVC, Blade templating, and end-to-end auth via Laravel Breeze.
 
-[→ GitHub](#)
+[→ GitHub](https://github.com/PavaN-3344/Chirper)
 
 </td>
 </tr>
@@ -65,7 +65,7 @@ Full-stack microblog with MVC, Blade templating, and end-to-end auth via Laravel
 
 RESTful API with RBAC, JWT auth, Redis caching, and third-party notification integrations.
 
-[→ GitHub](#)
+[→ GitHub](https://github.com/PavaN-3344/Event-management)
 
 </td>
 <td width="50%" valign="top">
@@ -77,7 +77,7 @@ RESTful API with RBAC, JWT auth, Redis caching, and third-party notification int
 
 Desktop notifier with queue workers, schedulers, and a clean MVC + service-layer architecture.
 
-[→ GitHub](#)
+[→ GitHub](https://github.com/PavaN-3344/PHP-Reminder)
 
 </td>
 </tr>
