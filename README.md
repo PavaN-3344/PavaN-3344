@@ -97,8 +97,8 @@ Desktop notifier with queue workers, schedulers, and a clean MVC + service-layer
 ### Contact
 
 [![Email](https://img.shields.io/badge/Email-pavanjakati11%40gmail.com-534AB7?style=flat-square&logo=gmail&logoColor=white)](mailto:pavanjakati11@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0F6E56?style=flat-square&logo=vercel&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-2C2C2A?style=flat-square&logo=github&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0F6E56?style=flat-square&logo=vercel&logoColor=white)](https://pavan-3344.github.io/My-portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-2C2C2A?style=flat-square&logo=github&logoColor=white)](https://github.com/PavaN-3344)
 
 ---
 
