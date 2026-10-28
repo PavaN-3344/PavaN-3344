@@ -32,7 +32,20 @@
 <tr>
 <td width="50%" valign="top">
 
-**`01 — AI`**
+**`01 — RAG App`**
+
+### Chat With Your Documents
+`Python` · `FastAPI` · `Gemini API` · `ChromaDB`
+
+Desktop notifier with queue workers, schedulers, and a clean MVC + service-layer architecture.
+
+[→ GitHub](https://github.com/PavaN-3344/rag-chat-docs)
+
+</td>
+</tr>  
+<td width="50%" valign="top">
+
+**`02 — AI`**
 
 ### Resume Analyzer
 `React` · `Vite` · `Gemini AI API`
@@ -44,7 +57,7 @@ AI-powered app with PDF/DOCX upload pipeline and real-time structured analysis v
 </td>
 <td width="50%" valign="top">
 
-**`02 — Web App`**
+**`03 — Web App`**
 
 ### Microblogging Platform
 `PHP` · `Laravel` · `MySQL`
@@ -58,7 +71,7 @@ Full-stack microblog with MVC, Blade templating, and end-to-end auth via Laravel
 <tr>
 <td width="50%" valign="top">
 
-**`03 — API`**
+**`04 — API`**
 
 ### Event Management System
 `Laravel` · `JWT` · `Redis` · `REST`
@@ -68,19 +81,6 @@ RESTful API with RBAC, JWT auth, Redis caching, and third-party notification int
 [→ GitHub](https://github.com/PavaN-3344/Event-management)
 
 </td>
-<td width="50%" valign="top">
-
-**`04 — Desktop`**
-
-### Task Notifier System
-`NativePHP` · `Laravel` · `Queues`
-
-Desktop notifier with queue workers, schedulers, and a clean MVC + service-layer architecture.
-
-[→ GitHub](https://github.com/PavaN-3344/PHP-Reminder)
-
-</td>
-</tr>
 </table>
 
 ---
