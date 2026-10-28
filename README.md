@@ -11,7 +11,9 @@
 > Building component-driven frontends, RESTful APIs, and relational databases — with auth flows, third-party integrations, and a growing edge in cloud computing.
 
 ![PHP](https://img.shields.io/badge/PHP-534AB7?style=flat-square&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-0F6E56?style=flat-square&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logoColor=white)
 ![React](https://img.shields.io/badge/React-993C1D?style=flat-square&logoColor=white)
 ![Cloud](https://img.shields.io/badge/Cloud-BA7517?style=flat-square&logoColor=white)
 ![AI--powered](https://img.shields.io/badge/AI--powered-993556?style=flat-square&logoColor=white)
@@ -94,11 +96,19 @@ RESTful API with RBAC, JWT auth, Redis caching, and third-party notification int
 
 ---
 
-### Contact
+### 📬 Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-pavanjakati11%40gmail.com-534AB7?style=flat-square&logo=gmail&logoColor=white)](mailto:pavanjakati11@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0F6E56?style=flat-square&logo=vercel&logoColor=white)](https://pavan-3344.github.io/My-portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-2C2C2A?style=flat-square&logo=github&logoColor=white)](https://github.com/PavaN-3344)
+<div align="center">
+
+**Have a role or project in mind? Let's talk.**
+
+<br/>
+
+<a href="mailto:pavanjakati11@gmail.com"><img src="https://img.shields.io/badge/Email-pavanjakati11%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://pavan-3344.github.io/My-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-1D9E75?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/PavaN-3344"><img src="https://img.shields.io/badge/GitHub-PavaN--3344-8B5CF6?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</div>
 
 ---
 
