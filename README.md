@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Full--time%20roles%20-1D9E75?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Full--time%20roles-1D9E75?style=for-the-badge&logoColor=white" />
 </div>
 
 <br/>
@@ -20,9 +20,9 @@
 
 ### Tech Stack
 
-| 🟣 Languages | 🟢 Frameworks | ⚫ DevOps | 🟡 AI Tools |
+| 🟣 Languages | 🟢 Frameworks | ⚫ Data & Tools | 🟡 AI Tools |
 |---|---|---|---|
-| `PHP` `Python` `JavaScript` `C++` | `FastAPI` `Laravel` `NativePHP` `WordPress` | `MySQL` `Redis` `Docker` `Git` `Postman` | `GitHub Copilot` `ChatGPT` `Prompting` |
+| `PHP` `Python` `JavaScript` `C++` | `FastAPI` `Laravel` `NativePHP` `WordPress` | `MySQL` `Redis` `Docker` `Git` `Postman` | `GitHub Copilot` `ChatGPT` `Prompt Engineering` |
 
 ---
 
@@ -34,19 +34,19 @@
 
 **`01 — RAG App`**
 
-### Chat With Your Documents
+**Chat With Your Documents**
 `Python` · `FastAPI` · `Gemini API` · `ChromaDB`
 
-Desktop notifier with queue workers, schedulers, and a clean MVC + service-layer architecture.
+Retrieval-augmented app that lets you upload documents and ask questions, with answers grounded in your own content.
 
 [→ GitHub](https://github.com/PavaN-3344/rag-chat-docs)
 
-</td>  
+</td>
 <td width="50%" valign="top">
 
 **`02 — AI`**
 
-### Resume Analyzer
+**Resume Analyzer**
 `React` · `Vite` · `Gemini AI API`
 
 AI-powered app with PDF/DOCX upload pipeline and real-time structured analysis via Google Gemini.
@@ -54,11 +54,13 @@ AI-powered app with PDF/DOCX upload pipeline and real-time structured analysis v
 [→ GitHub](https://github.com/PavaN-3344/AI-Resume-Analyzer)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **`03 — Web App`**
 
-### Microblogging Platform
+**Microblogging Platform**
 `PHP` · `Laravel` · `MySQL`
 
 Full-stack microblog with MVC, Blade templating, and end-to-end auth via Laravel Breeze.
@@ -66,13 +68,11 @@ Full-stack microblog with MVC, Blade templating, and end-to-end auth via Laravel
 [→ GitHub](https://github.com/PavaN-3344/Chirper)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **`04 — API`**
 
-### Event Management System
+**Event Management System**
 `Laravel` · `JWT` · `Redis` · `REST`
 
 RESTful API with RBAC, JWT auth, Redis caching, and third-party notification integrations.
@@ -87,7 +87,7 @@ RESTful API with RBAC, JWT auth, Redis caching, and third-party notification int
 
 ### Certifications
 
-| | |
+| Certification | Issuer · Year |
 |---|---|
 | ☁️ **Cloud Computing** | Simplilearn · 2025 |
 | 🐘 **PHP** | Simplilearn · 2025 |
