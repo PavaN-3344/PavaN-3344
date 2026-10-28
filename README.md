@@ -41,8 +41,7 @@ Desktop notifier with queue workers, schedulers, and a clean MVC + service-layer
 
 [→ GitHub](https://github.com/PavaN-3344/rag-chat-docs)
 
-</td>
-</tr>  
+</td>  
 <td width="50%" valign="top">
 
 **`02 — AI`**
@@ -81,6 +80,7 @@ RESTful API with RBAC, JWT auth, Redis caching, and third-party notification int
 [→ GitHub](https://github.com/PavaN-3344/Event-management)
 
 </td>
+</tr>
 </table>
 
 ---
