@@ -6,7 +6,7 @@
 
 # Pavankumar Jakati
 
-**Full Stack Developer** &nbsp;·&nbsp; Bengaluru, India
+**Backend Developer** &nbsp;·&nbsp; Bengaluru, India
 
 > Building component-driven frontends, RESTful APIs, and relational databases — with auth flows, third-party integrations, and a growing edge in cloud computing.
 
