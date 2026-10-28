@@ -13,7 +13,6 @@
 ![PHP](https://img.shields.io/badge/PHP-534AB7?style=flat-square&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-0F6E56?style=flat-square&logoColor=white)
 ![React](https://img.shields.io/badge/React-993C1D?style=flat-square&logoColor=white)
-![Python](https://img.shields.io/badge/Python-993C1D?style=flat-square&logoColor=white)
 ![Cloud](https://img.shields.io/badge/Cloud-BA7517?style=flat-square&logoColor=white)
 ![AI--powered](https://img.shields.io/badge/AI--powered-993556?style=flat-square&logoColor=white)
 
