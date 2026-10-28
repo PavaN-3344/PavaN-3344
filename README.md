@@ -22,7 +22,7 @@
 
 | 🟣 Languages | 🟢 Frameworks | ⚫ DevOps | 🟡 AI Tools |
 |---|---|---|---|
-| `PHP` `JavaScript` `C++` | `React` `Laravel` `NativePHP` `WordPress` | `MySQL` `Redis` `Docker` `Git` `Postman` | `GitHub Copilot` `ChatGPT` `Prompting` |
+| `PHP` `Python` `JavaScript` `C++` | `FastAPI` `Laravel` `NativePHP` `WordPress` | `MySQL` `Redis` `Docker` `Git` `Postman` | `GitHub Copilot` `ChatGPT` `Prompting` |
 
 ---
 
